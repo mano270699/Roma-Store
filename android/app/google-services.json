@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "271333310396",
+    "project_id": "romaa-babe3",
+    "storage_bucket": "romaa-babe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271333310396:android:2e9362f38b42561b5e35b9",
+        "android_client_info": {
+          "package_name": "com.metafortech.romaastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271333310396-a7065ue48k10ch32vugfn7pu6h3fuc3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metafortech.romaastore",
+            "certificate_hash": "f5ae132941ddb7d97ab6ec8daf38ea122505ad4c"
+          }
+        },
+        {
+          "client_id": "271333310396-m19ss8bpifo6t70gvr1l80la8pvj9do8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metafortech.romaastore",
+            "certificate_hash": "5d500cf10981d4bfd10a54248afb0a57117de266"
+          }
+        },
+        {
+          "client_id": "271333310396-pgoel536qkq806967c1mg7na66bto2p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metafortech.romaastore",
+            "certificate_hash": "544f37d91731fee06f50aa0f0c904d13a3a58426"
+          }
+        },
+        {
+          "client_id": "271333310396-e90ie2bhmrv0ln74mgrstvpboinna8k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzRTWwfqH1SeYzZGu0DqSOWMlUbpktoXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271333310396-e90ie2bhmrv0ln74mgrstvpboinna8k2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271333310396-aj691r62d890qdqjbdsbam059niskghj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metafortech.woobox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,83 @@
+{
+  "dashboard": {
+    "sortDashboard": [
+      "slider",
+      "categories",
+      "newest_product",
+      "deal_of_the_day",
+      "Sale_Banner",
+      "feature_products",
+      "vendor",
+      "best_selling_product",
+      "sale_product",
+      "offer",
+      "suggested_for_you",
+      "you_may_like"
+    ],
+    "sliderView": {
+      "enable": true
+    },
+    "category": {
+      "enable": true
+    },
+    "newArrivals": {
+      "enable": true,
+      "title": "New Arrivals",
+      "viewAll": "View All"
+    },
+    "featureProduct": {
+      "enable": true,
+      "title": "In the Spotlight",
+      "viewAll": "View All"
+    },
+    "hotProduct": {
+      "enable": true,
+      "title": "Hot Right Now",
+      "viewAll": "View All"
+    },
+    "todayDeal": {
+      "enable": true,
+      "title": "Today's exciting deal",
+      "viewAll": "View All"
+    },
+    "topProduct": {
+      "enable": true,
+      "title": "Top Picks",
+      "viewAll": "View All"
+    },
+    "offerProduct": {
+      "enable": true,
+      "title": "More offers for you",
+      "viewAll": "View All"
+    },
+    "recommendedProduct": {
+      "enable": true,
+      "title": "Recommended For You",
+      "viewAll": "View All"
+    },
+    "seller": {
+      "enable": true,
+      "title": "Top sellers",
+      "viewAll": "View All"
+    },
+    "youMayLikeProduct": {
+      "enable": true,
+      "title": "You May also Like",
+      "viewAll": "View All"
+    },
+    "saleBanner": {
+      "enable": true
+    }
+  },
+  "appsetup": {
+    "appName": "Woobox Flutter",
+    "primaryColor": "#C62828",
+    "secondaryColor": "#2635DF",
+    "backgroundColor": "#FCFDFD",
+    "textPrimaryColor": "#212121",
+    "textSecondaryColor": "#757575",
+    "consumerKey": "ck_f93379e8c905733202a32a218f0c89a0c91dfacb",
+    "consumerSecret": "cs_5d0db9626025fd2c3a36a275d08b1f4535fca5fc",
+    "appUrl": "https://romasstore.online/wp-json/"
+  }
+}
